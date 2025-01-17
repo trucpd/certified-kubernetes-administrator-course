@@ -112,12 +112,12 @@ These are notes from the [Certified Kubernetes Administrator Course](https://kod
 
 - [07-Security](docs/07-Security)
 
-  - [01-Security-Section-Introduction](docs/07-Security/01-Security-Section-Introduction.md)
-  - [02-Kubernetes-Security-Primitives](docs/07-Security/02-Kubernetes-Security-Primitives.md)
-  - [03-Authentication](docs/07-Security/03-Authentication.md)
-  - [04-TLS-Certificates](docs/07-Security/04-TLS-Certificates.md)
-  - [05-TLS-Basics](docs/07-Security/05-TLS-Basics.md)
-  - [06-TLS-in-Kubernetes](docs/07-Security/06-TLS-in-Kubernetes.md)
+  - [x]   [01-Security-Section-Introduction](docs/07-Security/01-Security-Section-Introduction.md)
+  - [x]   [02-Kubernetes-Security-Primitives](docs/07-Security/02-Kubernetes-Security-Primitives.md)
+  - [x]   [03-Authentication](docs/07-Security/03-Authentication.md)
+  - [x]   [04-TLS-Certificates](docs/07-Security/04-TLS-Certificates.md)
+  - [x]   [05-TLS-Basics](docs/07-Security/05-TLS-Basics.md)
+  - [x]   [06-TLS-in-Kubernetes](docs/07-Security/06-TLS-in-Kubernetes.md)
   - [07-TLS-in-Kubernetes-Certificate-Creation](docs/07-Security/07-TLS-in-Kubernetes-Certificate-Creation.md)
   - [08-View-Certificate-Details](docs/07-Security/08-View-Certificate-Details.md)
   - [09-Certificate-Health-Check-Spreadsheet](docs/07-Security/09-Certificate-Health-Check-Spreadsheet.md)
