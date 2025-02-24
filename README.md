@@ -97,17 +97,17 @@ These are notes from the [Certified Kubernetes Administrator Course](https://kod
 
 - [06-Cluster-Maintenance](docs/06-Cluster-Maintenance)
 
-  - [01-Cluster-Maintenance-Section-Introduction](docs/06-Cluster-Maintenance/01-Cluster-Maintenance-Section-Introduction.md)
-  - [02-OS-Upgrades](docs/06-Cluster-Maintenance/02-OS-Upgrades.md)
-  - [03-Practice-Test-OS-Upgrades](docs/06-Cluster-Maintenance/03-Practice-Test-OS-Upgrades.md)
-  - [04-Kubernetes-Software-Versions](docs/06-Cluster-Maintenance/04-Kubernetes-Software-Versions.md)
-  - [05-Cluster-Upgrade-Introduction](docs/06-Cluster-Maintenance/05-Cluster-Upgrade-Introduction.md)
-  - [06-Practice-Test-Cluster-Upgrade-Process](docs/06-Cluster-Maintenance/06-Practice-Test-Cluster-Upgrade-Process.md)
-  - [07-Backup-and-Restore-Methods](docs/06-Cluster-Maintenance/07-Backup-and-Restore-Methods.md)
-  - [08-Working-With-ETCDCTL](docs/06-Cluster-Maintenance/08-Working-With-ETCDCTL.md)
-  - [09-Practice-Test-Backup-and-Restore-Methods](docs/06-Cluster-Maintenance/09-Practice-Test-Backup-and-Restore-Methods.md)
-  - [10-Practice-Test-Backup-and-Restore-Methods 2](docs/06-Cluster-Maintenance/10-Practice-Test-Backup-and-Restore-Methods-2.md)
-  - [11-Download-Presentation-Deck](docs/06-Cluster-Maintenance/11-Download-Presentation-Deck.md)
+  - [x] [01-Cluster-Maintenance-Section-Introduction](docs/06-Cluster-Maintenance/01-Cluster-Maintenance-Section-Introduction.md)
+  - [x] [02-OS-Upgrades](docs/06-Cluster-Maintenance/02-OS-Upgrades.md)
+  - [x] [03-Practice-Test-OS-Upgrades](docs/06-Cluster-Maintenance/03-Practice-Test-OS-Upgrades.md)
+  - [x] [04-Kubernetes-Software-Versions](docs/06-Cluster-Maintenance/04-Kubernetes-Software-Versions.md)
+  - [x] [05-Cluster-Upgrade-Introduction](docs/06-Cluster-Maintenance/05-Cluster-Upgrade-Introduction.md)
+  - [x] [06-Practice-Test-Cluster-Upgrade-Process](docs/06-Cluster-Maintenance/06-Practice-Test-Cluster-Upgrade-Process.md)
+  - [x] [07-Backup-and-Restore-Methods](docs/06-Cluster-Maintenance/07-Backup-and-Restore-Methods.md)
+  - [x] [08-Working-With-ETCDCTL](docs/06-Cluster-Maintenance/08-Working-With-ETCDCTL.md)
+  - [x] [09-Practice-Test-Backup-and-Restore-Methods](docs/06-Cluster-Maintenance/09-Practice-Test-Backup-and-Restore-Methods.md)
+  - [x] [10-Practice-Test-Backup-and-Restore-Methods 2](docs/06-Cluster-Maintenance/10-Practice-Test-Backup-and-Restore-Methods-2.md)
+  - [x] [11-Download-Presentation-Deck](docs/06-Cluster-Maintenance/11-Download-Presentation-Deck.md)
 
 
 - [07-Security](docs/07-Security)
