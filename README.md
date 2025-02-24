@@ -75,7 +75,7 @@ These are notes from the [Certified Kubernetes Administrator Course](https://kod
 
 - [05-Application-Lifecycle-Management](docs/05-Application-Lifecycle-Management)
 
-  - [x] pplication-Lifecycle-Management--Section-Introduction](docs/05-Application-Lifecycle-Management/01-Application-Lifecycle-Management--Section-Introduction.md)
+  - [x] [Application-Lifecycle-Management--Section-Introduction](docs/05-Application-Lifecycle-Management/01-Application-Lifecycle-Management--Section-Introduction.md)
   - [x] [02-RollingUpdates-and-Rollback](docs/05-Application-Lifecycle-Management/02-RollingUpdates-and-Rollback.md)
   - [x] [03-Practice-Test-RollingUpdates-Rollback](docs/05-Application-Lifecycle-Management/03-Practice-Test-RollingUpdates-Rollback.md)
   - [x] [04-Commands-and-Arguments-in-Docker](docs/05-Application-Lifecycle-Management/04-Commands-and-Arguments-in-Docker.md)
